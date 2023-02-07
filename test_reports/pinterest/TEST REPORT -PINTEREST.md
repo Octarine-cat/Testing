@@ -30,7 +30,7 @@ Creating report: 2h |
 | 001 | 1. Log in to the page<br/>https://pl.pinterest.com/<br/>2. Click on the search box and leave it empty<br/>3. Click Enter | Validation message appears e.g.: “Write anything” | Nothing happened. | Suggestion - validation message should appear. | Low |
 | 002 | 1. Log in to the page https://pl.pinterest.com/<br/>2. Choose polish language in Ustawienia → Dane osobowe<br/>3. Refresh page to see changing translation | Search box placeholder is translated from the beggining to Polish “Wyszukaj” and stays like that. | After approximately one second the search box placeholder changed from Polish “Wyszukaj” to English “Search”. Chosen language in settings is Polish.  | Screenshot 4 | Low |
 
-![Screenshot 1](TEST%20REPORT%20-PINTEREST%20805c23fceabf41d687c593542610d70c/Screenshot_12.png)
+![Screenshot 1](TEST%20REPORT%20-PINTEREST%20805c23fceabf41d687c593542610d70c/Screenshot_2.png)
 
 Screenshot 1
 
