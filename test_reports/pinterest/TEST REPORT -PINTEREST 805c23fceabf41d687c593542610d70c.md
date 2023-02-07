@@ -27,12 +27,8 @@ Creating report: 2h |
 
 | BUG | Steps to recreate bug | Expected result | Obtained result | Comments | Priority |
 | --- | --- | --- | --- | --- | --- |
-| 001 | 1. Log in to the page https://pl.pinterest.com/
-2. Click in and leave the “Search” box empty
-3. Click Enter  | Validation message appears eg. “Write anything” | Nothing happened. | Suggestion -validation message should appear. | Low |
-| 002 | 1. Log in to the page https://pl.pinterest.com/
-2. Choose polish language in Ustawienia → Dane osobowe
-3. Refresh page to see changing translation | Searching box title is translated from beggining to polish “Wyszukaj” and stays like that. | After approx one second searching box title changed from polish “Wyszukaj” to english “Search”. Chosen language in settings is polish.  | Screenshot 4 | Low |
+| 001 | 1. Log in to the page https://pl.pinterest.com/<br/>2. Click in and leave the “Search” box empty<br/>3. Click Enter  | Validation message appears eg. “Write anything” | Nothing happened. | Suggestion -validation message should appear. | Low |
+| 002 | 1. Log in to the page https://pl.pinterest.com/<br/>2. Choose polish language in Ustawienia → Dane osobowe<br/>3. Refresh page to see changing translation | Searching box title is translated from beggining to polish “Wyszukaj” and stays like that. | After approx one second searching box title changed from polish “Wyszukaj” to english “Search”. Chosen language in settings is polish.  | Screenshot 4 | Low |
 
 ![Screenshot 1](TEST%20REPORT%20-PINTEREST%20805c23fceabf41d687c593542610d70c/Screenshot_2.png)
 
