@@ -38,7 +38,7 @@ Creating report: 2h |
 2. Choose polish language in Ustawienia → Dane osobowe
 3. Refresh page to see changing translation | Searching box title is translated from beggining to polish “Wyszukaj” and stays like that. | After approx one second searching box title changed from polish “Wyszukaj” to english “Search”. Chosen language in settings is polish.  | Screenshot 4 | Low |
 
-![Screenshot 1](TEST%20REPORT%20-PINTEREST%20805c23fceabf41d687c593542610d70c/Screenshot_12.png)
+![Screenshot 1](TEST%20REPORT%20-PINTEREST%20805c23fceabf41d687c593542610d70c/Screenshot_2.png)
 
 Screenshot 1
 
