@@ -6,11 +6,7 @@
 | Document version | 1.0 |
 | Creation date | 07.02.2023 12:15 |
 | Application /link | https://pl.pinterest.com/ |
-| Testing enviroment | OS: 
-Windows 10 Home (64 bit);
-Browsers: 
-Firefox ver 109.0.1 (64 bit),
-Chrome ver 109.0.5414.120 (64-bit) |
+| Testing enviroment | OS<br/>Windows 10 Home (64 bit);<br/>Browsers<br/>Firefox ver 109.0.1 (64 bit),<br/>Chrome ver 109.0.5414.120 (64-bit) |
 | Duration time | Testing: 4h
 Creating report: 2h |
 
